@@ -1,0 +1,5 @@
+aws {
+  key = "YOU",
+  secret = "COMPLETE",
+  bucket = "ME"
+}
